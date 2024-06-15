@@ -9,3 +9,6 @@ Office Document Viewer 是一个可以对文档进行访问或进行一些简单
 # 联系我们
 个人的电子邮箱：hbeauwor@outlook.com
 欢迎大家向我提建议！
+
+# 捐赠
+目前作者尚未开通捐赠通道，以后再来吧！
