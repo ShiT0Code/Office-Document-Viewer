@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Office-Document-Viewer (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Office-Document-Viewer (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
