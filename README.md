@@ -1,4 +1,6 @@
 # Office-Document-Viewer
+## 关于此分支
+**此分支为开发时的代码，可能会无法运行！**
 ## 简要介绍 
 Office Document Viewer 是一个可以**对文档进行访问或进行一些简单修改**所使用的工具，相较于Microsoft Office（Microsoft 365）或 WPS Office 而言更加的轻量化，速度更快，没有那么多臃肿的功能，适合在学校 、 广场大屏幕 、 发布会等其他需需要进行文档展示的地方使用。 
 
