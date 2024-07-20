@@ -18,21 +18,21 @@ Office Documents Viewer 是一款更加专注于Office文件的查看软件。
     未来将推出自动同步功能，无论你身在何处，都能帮助您快速同步并打开文件；提前预判可能打开的文件并提前加加载，加快打开速度
 ## 环境要求
 ### 运行程序
-    - Microsoft Windows
-        1. 需要 Windows 10 1803 或更高版本（WinUI 3 最低支持版本）
-        2. 已安装 .NET 8.0 或更高版本（WinUI 3 最低支持的运行环境
+- Microsoft Windows
+    1. 需要 Windows 10 1803 或更高版本（WinUI 3 最低支持版本）
+    2. 已安装 .NET 8.0 或更高版本（WinUI 3 最低支持的运行环境
 ### 开发环境
-    - Microsoft Windows
-        1. 需要 Windows 10 1803 或更高版本（WinUI 3 最低支持版本）
-        2. 未安装 Microsoft Visual Studio
-            1. [前往下载 Microsoft Visual Studio](https://visualstudio.microsoft.com/zh-hans/) **（千万不要下成 Visual Studio Code）**  并安装，然后按接下来的步骤操作
-        3. 已安装 Microsoft Visual Studio 2022 (17.1-17.9) 或更高版本，请检查或修改工作负荷：
-            1. 选择**.NET 桌面开发**
-            2. 选择**Windows 应用 SDK C# 模板**（靠近右侧列表底部）
-            3. 在右侧列表中的“.NET 桌面开发”中应该至少选择**Windows 应用 SDK C# 模板**
-            4. 检查是否已安装 .NET 8.0 ，否则应**安装 .NET 8.0 SDK**（[下载地址](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)）
-        4. 安装或已安装 Microsoft Visual Studio 2022 17.10 ，请检查或修改工作负荷：
-            - 选择 **Windows 应用程序开发**
+- Microsoft Windows
+    1. 需要 Windows 10 1803 或更高版本（WinUI 3 最低支持版本）
+    2. 未安装 Microsoft Visual Studio
+        1. [前往下载 Microsoft Visual Studio](https://visualstudio.microsoft.com/zh-hans/) **（千万不要下成 Visual Studio Code）**  并安装，然后按接下来的步骤操作
+    3. 已安装 Microsoft Visual Studio 2022 (17.1-17.9) 或更高版本，请检查或修改工作负荷：
+        1. 选择**.NET 桌面开发**
+        2. 选择**Windows 应用 SDK C# 模板**（靠近右侧列表底部）
+        3. 在右侧列表中的“.NET 桌面开发”中应该至少选择**Windows 应用 SDK C# 模板**
+        4. 检查是否已安装 .NET 8.0 ，否则应**安装 .NET 8.0 SDK**（[下载地址](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)）
+    4. 安装或已安装 Microsoft Visual Studio 2022 17.10 ，请检查或修改工作负荷：
+        - 选择 **Windows 应用程序开发**
 ## 联系我们
 电子邮箱：hbeauwor@outlook.com
 #### 捐赠我们
