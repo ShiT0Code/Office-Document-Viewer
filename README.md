@@ -1,8 +1,8 @@
 # Office Documents Viewer
 ## 语言 語言 Language
-[简体中文](/.github/res/MarkDown/zh-cn.md "查看简体中文的说明") 
-[繁體中文](/.github/res/MarkDown/zh-tr.md "查看繁體中文的說明") 
-[English](/.github/res/MarkDown/en.md "View English instructions")
+简体中文  l
+[繁體中文](/.github/res/MarkDown/ZH-TR.md "查看繁體中文的說明")   l
+[English](/.github/res/MarkDown/EN-EN.md)
 ## 新增功能
 - 使用了自定义标题栏
 - 使用了选项卡并进行了修改
@@ -42,8 +42,11 @@ Office Documents Viewer 是一款更加专注于Office文件的查看软件
 暂无讯息
 ## 联系我们
 电子邮箱：hbeauwor@outlook.com
-#### 捐赠我们
-![Alipay](/.github/res/ass/Alipay.png)  
+#### 支持我们
 支付宝捐赠
-![WeChatPay](/.github/res/ass/WeChatPay.png)  
+
+![Alipay](/.github/res/ass/Alipay.png)  
+
 微信捐赠
+
+![WeChatPay](/.github/res/ass/WeChatPay.png)  
