@@ -1,13 +1,15 @@
 # Office Documents Viewer
 ## 语言 語言 Language
 简体中文  l
-[繁體中文](/.github/res/MarkDown/ZH-TR.md "查看繁體中文的說明")   l
+[繁體中文](/.github/res/MarkDown/ZH-TR.md)   l
 [English](/.github/res/MarkDown/EN-EN.md)
 ## 新增功能
 - 使用了自定义标题栏
 - 使用了选项卡并进行了修改
 - 应用了云母材质以美化外观
 ## 介绍
+![icon](/.github/res/ass/iconw.svg)    
+
 Office Documents Viewer 是一款更加专注于Office文件的查看软件    
 功能简介：
 - 极速简洁，告别繁琐功能

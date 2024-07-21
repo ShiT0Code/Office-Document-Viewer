@@ -3,11 +3,13 @@
 [简体中文](/.github/res/MarkDown/ZH-CN.md)  l
 繁體中文   l
 [English](/.github/res/MarkDown/EN-EN.md)
-##新增功能
+## 新增功能
 - 使用了自定義標題列
 - 使用了選項卡並進行了修改
 - 應用了雲母材質以美化外觀
-##介紹
+## 介紹
+![icon](/.github/res/ass/iconw.svg)    
+
 Office Documents Viewer是一款更加專注於Office檔案的查看軟件    
 功能簡介：
 - 極速簡潔，告別繁瑣功能
@@ -24,14 +26,14 @@ Office Documents Viewer是一款更加專注於Office檔案的查看軟件
 ### 開發環境
 - Microsoft Windows
     1. 需要Windows 10 1803或更高版本（WinUI 3最低支持版本）
-    2. 未安裝Microsoft Visual Studio：[前往下載Microsoft Visual Studio](https://visualstudio.microsoft.com/zh-hans/)**（千萬不要下成Visual Studio Code）**並安裝，然後按接下來的步驟操作
+    2. 未安裝Microsoft Visual Studio：[前往下載Microsoft Visual Studio](https://visualstudio.microsoft.com/zh-hans/) **（千萬不要下成Visual Studio Code）** 並安裝，然後按接下來的步驟操作
     3. 已安裝Microsoft Visual Studio 2022（17.1-17.9）或更高版本，請檢查或修改工作負荷：
-        1. 選擇** . NET案頭開發**
-        2. 選擇**Windows應用SDK C#範本**（靠近右側清單底部）
-        3. 在右側清單中的“.NET案頭開發”中應該至少選擇**Windows應用SDK C#範本**
-        4. 檢查是否已安裝. NET 8.0 ， 否則應**安裝. NET 8.0 SDK**（[下載地址](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)）
+        1. 選擇 **. NET案頭開發** 
+        2. 選擇 **Windows應用SDK C#範本**（靠近右側清單底部）
+        3. 在右側清單中的“.NET案頭開發”中應該至少選擇 **Windows應用SDK C#範本**
+        4. 檢查是否已安裝. NET 8.0 ， 否則應 **安裝. NET 8.0 SDK**（[下載地址](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)）
     4. 安裝或已安裝Microsoft Visual Studio 2022 17.10，請檢查或修改工作負荷：
-選擇** Windows應用程序開發**
+選擇 **Windows應用程序開發**
 ## 聯繫我們
 電子郵箱： hbeauwor@outlook.com
 #### 支持我們

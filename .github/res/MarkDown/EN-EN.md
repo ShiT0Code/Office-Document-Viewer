@@ -8,6 +8,8 @@ English
 - Used tabs and made modifications
 - Mica material was applied to beautify the appearance
 ## Introduction
+![icon](/.github/res/ass/iconw.svg)    
+
 Office Documents Viewer is a viewing software that focuses more on Office files
 Function   
 
@@ -26,14 +28,14 @@ Introduction:
 ### Development environment
 - Microsoft Windows
     1. Requires Windows 10 1803 or higher (minimum supported version for WinUI 3)
-    2. Microsoft Visual Studio is not installed: [Go to download Microsoft Visual Studio](https://visualstudio.microsoft.com/zh-hans/)** (Never download Visual Studio Code) ** and install it, then follow the steps below  
+    2. Microsoft Visual Studio is not installed: [Go to download Microsoft Visual Studio](https://visualstudio.microsoft.com/zh-hans/)**(DON'T download Visual Studio Code)** and install it, then follow the steps below  
     3. Microsoft Visual Studio 2022 (17.1-17.9) or later has been installed. Please check or modify the workload:
-        1. Select ** NET desktop development**
-        2. Select ** Windows Application SDK C # Template ** (near the bottom of the list on the right)
-        3. In the ". NET Desktop Development" list on the right, at least ** Windows Application SDK C # Template should be selected**
-        4. Check if it has been installed NET 8.0 ， Otherwise, it should be installed NET 8.0 SDK ** ([download link](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0))
+        1. Select **.NET desktop development**
+        2. Select **Windows Application SDK C # Template ** (near the bottom of the list on the right)
+        3. In the ". NET Desktop Development" list on the right, at least **Windows Application SDK C # Template should be selected**
+        4. Check if it has been installed NET 8.0 ， Otherwise, it should be installed NET 8.0 SDK([download link](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0))
     4. Install or have already installed Microsoft Visual Studio 2022 17.10, please check or modify the workload:
-        Select ** Windows Application Development**
+        Select **Windows Application Development**
 ## Submission, version and branch release
 ### Submit
 In the future, we will only submit executable code for everyone to view, reference, modify, and automatically compile and publish
