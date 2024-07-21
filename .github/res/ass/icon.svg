@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="301" height="301" style="background-color:transparent;">
+    <line x1="21.5" y1="21.5" x2="150.5" y2="279.5" stroke="#1d29ba" stroke-width="43"/>
+    <circle cx="21.5" cy="21.5" r="21.5" fill="#1d29ba" />
+    
+    
+    <line x1="61" y1="100" x2="150.5" y2="279.5" stroke="#2eb758" stroke-width="43"/>
+    <circle cx="61" cy="100" r="21.5" fill="#2eb758" />
+    
+    
+    <line x1="98.5" y1="175.25" x2="150.5" y2="279.5" stroke="#9a2e19" stroke-width="43"/>
+    <line x1="98.5" y1="175.25" x2="150.5" y2="279.5" stroke="#9a2e19" stroke-width="43"/>
+    <circle cx="98.5" cy="175.25" r="21.5" fill="#9a2e19" />
+    
+    <line x1="150.5" y1="279.5" x2="279.5" y2="21.5" stroke="#e39000" stroke-width="43"/>
+    
+    
+    <circle cx="279.5" cy="21.5" r="21.5" fill="#e39000"/>
+    <circle cx="150.5" cy="279.5" r="21.5" fill="#e39000" />
+    
+    <text x="170" y="260" font-size="20" fill="#7f3cff" transform="rotate(297.5 170,260)" font-family="Verdana" font-weight="bold">
+    Office Documents Viewer
+  </text>
+</svg>
