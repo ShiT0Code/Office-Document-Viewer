@@ -1,7 +1,7 @@
 # Office Documents Viewer
 ## 语言 語言 Language
 [简体中文](/.github/res/MarkDown/ZH-CN.md)   l
-[繁體中文](/.github/res/MarkDown/zh-tr.md "查看繁體中文的說明")   |
+[繁體中文](/.github/res/MarkDown/ZH-TR.md "查看繁體中文的說明")   |
 English
 ## New features added
 - Used custom title bar
