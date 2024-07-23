@@ -31,7 +31,7 @@ Introduction:
     2. Microsoft Visual Studio is not installed: [Go to download Microsoft Visual Studio](https://visualstudio.microsoft.com/zh-hans/)**(DON'T download Visual Studio Code)** and install it, then follow the steps below  
     3. Microsoft Visual Studio 2022 (17.1-17.9) or later has been installed. Please check or modify the workload:
         1. Select **.NET desktop development**
-        2. Select **Windows Application SDK C # Template ** (near the bottom of the list on the right)
+        2. Select **Windows Application SDK C # Template** (near the bottom of the list on the right)
         3. In the ". NET Desktop Development" list on the right, at least **Windows Application SDK C # Template should be selected**
         4. Check if it has been installed NET 8.0 ， Otherwise, it should be installed NET 8.0 SDK([download link](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0))
     4. Install or have already installed Microsoft Visual Studio 2022 17.10, please check or modify the workload:
