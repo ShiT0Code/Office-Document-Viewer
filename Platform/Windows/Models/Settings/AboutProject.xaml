@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="OfficeDocumentViewer.Models.Settings.AboutProject"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:OfficeDocumentViewer.Models.Settings"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="About the project">
+
+    <Window.SystemBackdrop>
+        <MicaBackdrop Kind="BaseAlt"/>
+    </Window.SystemBackdrop>
+
+    <StackPanel Padding="12" Spacing="12">
+        <TextBlock FontSize="28" FontWeight="Bold" Text="About the project"/>
+
+        <TextBlock LineHeight="28">
+            <Bold>Office Document Viewer</Bold>
+            <LineBreak/>
+            © 2024 ShiT0Code. All rights reserved.
+            <LineBreak/>
+            Dev 0.0.3
+        </TextBlock>
+    </StackPanel>
+</Window>

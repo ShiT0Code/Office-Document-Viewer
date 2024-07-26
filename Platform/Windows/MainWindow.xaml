@@ -12,67 +12,69 @@
         <MicaBackdrop Kind="BaseAlt"/>
     </Window.SystemBackdrop>
 
-    <StackPanel>
-        <Grid x:Name="AppTitleBar" Height="30"></Grid>
-        <TabView
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="33"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Grid x:Name="AppTitleBar" Height="33">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <FontIcon Glyph="&#xED35;" />
+                <TextBlock Text="- Office Document Viewer" VerticalAlignment="Center" FontSize="18"/>
+            </StackPanel>
+        </Grid>
+        <TabView Grid.Row="1"
             x:Name="tabView"
             IsAddTabButtonVisible="False"
             TabCloseRequested="tabView_TabCloseRequested">
             <TabView.TabStripHeader>
                 <Button Click="HomeButton"
-                        BorderBrush="Transparent"
-                        Background="Transparent">
+                        Style="{StaticResource NoBaBu}"
+                        VerticalAlignment="Bottom">
                         <FontIcon Glyph="&#xE80F;" />
                 </Button>
             </TabView.TabStripHeader>
             <TabView.TabStripFooter>
-                <Grid>
+                <Grid VerticalAlignment="Bottom">
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="Auto"/>
                         <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
                     
-                    <SplitButton Click="AdddeFaultTab">
+                    <SplitButton Click="AdddeFaultTab" BorderBrush="Transparent" Background="Transparent">
                         <FontIcon Glyph="&#xE710;" />
                         <SplitButton.Flyout>
                             <Flyout>
                                 <StackPanel>
-                                    <Button Click="HomeButton"
-                                            BorderBrush="Transparent"
-                                            Background="Transparent">
-                                        <StackPanel Orientation="Horizontal">
+                                    <Button Click="HomeButton" Style="{StaticResource NoBaBu}">
+                                        <StackPanel Orientation="Horizontal" Spacing="8">
                                             <FontIcon Glyph="&#xE80F;" />
                                             <TextBlock Text="Home"/>
                                         </StackPanel>
                                     </Button>
 
-                                    <Button Click="OpenButton"
-                                            BorderBrush="Transparent"
-                                            Background="Transparent">
-                                        <StackPanel Orientation="Horizontal">
+                                    <Button Click="OpenButton" Style="{StaticResource NoBaBu}">
+                                        <StackPanel Orientation="Horizontal" Spacing="8">
                                             <FontIcon Glyph="&#xE8E5;" />
                                             <TextBlock Text="Open"/>
                                         </StackPanel>
                                     </Button>
 
-                                    <Button Click="SettingsButton"
-                                            BorderBrush="Transparent"
-                                            Background="Transparent">
-                                        <StackPanel Orientation="Horizontal">
-                                            <FontIcon Glyph="&#xE713;" />
+                                    <Button Click="SettingsButton" Style="{StaticResource NoBaBu}">
+                                        <StackPanel Orientation="Horizontal" Spacing="8">
+                                            <FontIcon Glyph="&#xE80F;" />
                                             <TextBlock Text="Settings"/>
                                         </StackPanel>
                                     </Button>
 
-                                    <Button Click="AboutButton"
-                                            BorderBrush="Transparent"
-                                            Background="Transparent">
-                                        <StackPanel Orientation="Horizontal"                                                    >
+                                    <Button Click="AboutButton" Style="{StaticResource NoBaBu}">
+                                        <StackPanel Orientation="Horizontal" Spacing="8">
                                             <FontIcon Glyph="&#xE946;" />
                                             <TextBlock Text="About"/>
                                         </StackPanel>
                                     </Button>
-                                    
+
                                 </StackPanel>
                             </Flyout>
                         </SplitButton.Flyout>
@@ -81,13 +83,12 @@
                     <StackPanel Grid.Column="1"
                         HorizontalAlignment="Right">
                         <Button Click="SettingsButton"
-                                BorderBrush="Transparent"
-                                Background="Transparent">
+                                Style="{StaticResource NoBaBu}">
                                 <FontIcon Glyph="&#xE713;" />
                         </Button>
                     </StackPanel>
                 </Grid>
             </TabView.TabStripFooter>
         </TabView>
-    </StackPanel>
+    </Grid>
 </Window>
