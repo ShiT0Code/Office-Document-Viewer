@@ -1,5 +1,6 @@
 using Microsoft.UI.Xaml;
 using Microsoft.UI.Xaml.Controls;
+using OfficeDocumentViewer.Models.Settings;
 using System;
 
 // To learn more about WinUI, the WinUI project structure,
@@ -22,7 +23,7 @@ namespace OfficeDocumentViewer
 
         private void AdddeFaultTab(SplitButton sender, SplitButtonClickEventArgs args)
         {
-            AddNewTab("FileExplorer", "Open");
+            AddNewTab("FileExplorer", "OpenFile");
         }
 
         private void HomeButton(object sender, RoutedEventArgs e)
@@ -32,17 +33,18 @@ namespace OfficeDocumentViewer
 
         private void OpenButton(object sender, RoutedEventArgs e)
         {
-            AddNewTab("FileExplorer", "Open");
+            AddNewTab("FileExplorer", "OpenFile");
         }
 
         private void SettingsButton(object sender, RoutedEventArgs e)
         {
-            AddNewTab("Settings", "Settings");
+            AddNewTab("Settings", "SettingsPage");
         }
 
         private void AboutButton(object sender, RoutedEventArgs e)
         {
-            AddNewTab("Settings", "About");
+            var new_window = new AboutProject();
+            new_window.Activate();
         }
 
         private void AddNewTab(string modelName1,string modelName2)
