@@ -3,10 +3,8 @@
 [简体中文](/.github/res/MarkDown/ZH-CN.md)  l
 繁體中文   l
 [English](/.github/res/MarkDown/EN-EN.md)
-## 新增功能
-- 使用了自定義標題列
-- 使用了選項卡並進行了修改
-- 應用了雲母材質以美化外觀
+## 致歉聲明
+**由於作者正在開發其他項目，且當前項目的緊迫性不高，故可能將長時間不更新**
 ## 介紹
 ![icon](/.github/res/ass/iconw.svg)    
 
@@ -44,10 +42,4 @@ Office Documents Viewer是一款更加專注於Office檔案的查看軟件
 ## 聯繫我們
 電子郵箱： hbeauwor@outlook.com
 #### 支持我們
-支付寶捐贈
-
-![Alipay](/.github/res/ass/Alipay.png) 
-
-微信捐贈
-
-![WeChatPay](/.github/res/ass/WeChatPay.png)
+聯繫我以支持我
