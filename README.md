@@ -3,10 +3,8 @@
 简体中文  l
 [繁體中文](/.github/res/MarkDown/ZH-TR.md)   l
 [English](/.github/res/MarkDown/EN-EN.md)
-## 新增功能
-- 使用了自定义标题栏
-- 使用了选项卡并进行了修改
-- 应用了云母材质以美化外观
+## 致歉声明
+**由于作者正在开发其他项目，且当前项目的紧迫性不高，故可能将长时间不更新**
 ## 介绍
 ![icon](/.github/res/ass/iconw.svg)    
 
@@ -45,10 +43,4 @@ Office Documents Viewer 是一款更加专注于Office文件的查看软件
 ## 联系我们
 电子邮箱：hbeauwor@outlook.com
 #### 支持我们
-支付宝捐赠
-
-![Alipay](/.github/res/ass/Alipay.png)  
-
-微信捐赠
-
-![WeChatPay](/.github/res/ass/WeChatPay.png)  
+联系我以支持我
