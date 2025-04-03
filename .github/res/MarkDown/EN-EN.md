@@ -3,10 +3,8 @@
 [简体中文](/.github/res/MarkDown/ZH-CN.md)   l
 [繁體中文](/.github/res/MarkDown/ZH-TR.md "查看繁體中文的說明")   |
 English
-## New features added
-- Used custom title bar
-- Used tabs and made modifications
-- Mica material was applied to beautify the appearance
+## We're sorry
+**I'm build another project,so I may don't update the software for a long time.**
 ## Introduction
 ![icon](/.github/res/ass/iconw.svg)    
 
@@ -46,10 +44,4 @@ No messages at the moment
 ## Contact Us
 E-mail hbeauwor@outlook.com
 #### Support us
-Alipay donation
-
-![Alipay](/.github/res/ass/Alipay.png)  
-
-WeChat donation
-
-![WeChatPay](/.github/res/ass/WeChatPay.png)
+Contact me to support us.
